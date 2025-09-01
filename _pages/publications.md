@@ -6,15 +6,17 @@ author_profile: true
 ---
 
 
-### Notes and Projects
+### Expository Notes
 
 
+- [Brownian Motion Via Hilbert Spaces](http://youssefbar.github.io/files/mast.pdf)
 
-**6.** [Brownian Motion Via Hilbert Spaces](http://youssefbar.github.io/files/mast.pdf)
+- [Q-Learning](http://youssefbar.github.io/files/pif.pdf)
 
-**5.** [Q-Learning](http://youssefbar.github.io/files/pif.pdf)
+- [EigenFaces](http://youssefbar.github.io/files/eigen.pdf)
 
-**4.** [EigenFaces](http://youssefbar.github.io/files/eigen.pdf)
+
+### Publications
 
 **3.** Barkaoui, Y. (2022) . [Classification profonde et réseaux de neurones: application en science des données](http://youssefbar.github.io/files/eprint.pdf) Diss. Université du Québec eprint.
 
