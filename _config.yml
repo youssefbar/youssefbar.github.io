@@ -78,7 +78,7 @@ author:
   bio              : "PhD Student in Probability and Statistics at Concordia University."
   location         : "Montréal, Canada"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?pli=1&authuser=1&user=LjZ0V7UAAAAJ"
+  #googlescholar    : "https://scholar.google.com/citations?pli=1&authuser=1&user=LjZ0V7UAAAAJ"
   email            : "youssef.barkaoui@concordia.ca"
   #researchgate     :  "https://www.researchgate.net/profile/Mehdi_Dagdoug2"
   uri              :
