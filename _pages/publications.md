@@ -8,7 +8,10 @@ author_profile: true
 
 ### Expository Notes
 
+- [Stein's Method & CLT](http://youssefbar.github.io/files/stein_method.pdf)
 
+- [Glivenko-Cantelli : Vc dimension & Rademacher complexity](http://youssefbar.github.io/files/Glivenko_cantelli.pdf)
+  
 - [Brownian Motion Via Hilbert Spaces](http://youssefbar.github.io/files/mast.pdf)
 
 - [Q-Learning](http://youssefbar.github.io/files/pif.pdf)
