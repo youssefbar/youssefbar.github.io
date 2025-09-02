@@ -8,7 +8,7 @@ author_profile: true
 
 ### Expository Notes
 
--[Local time Processes & BDG inequality](http://youssefbar.github.io/files/mart.pdf)
+- [Local time Processes & BDG inequality](http://youssefbar.github.io/files/mart.pdf)
 
 - [Stein's Method & CLT](http://youssefbar.github.io/files/stein_method.pdf)
 
